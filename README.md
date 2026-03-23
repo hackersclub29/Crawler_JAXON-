@@ -151,8 +151,8 @@ Python >= 3.9
 #### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/json-api-crawler.git
-cd json-api-crawler
+https://github.com/hackersclub29/Crawler_JAXON-.git
+cd Crawler_JAXON
 ```
 
 #### Step 2 — Create and Activate Virtual Environment
@@ -202,8 +202,8 @@ python crawler_v2.py --help
 #### Step 1 — Clone the Repository
 
 ```powershell
-git clone https://github.com/yourusername/json-api-crawler.git
-cd json-api-crawler
+git https://github.com/hackersclub29/Crawler_JAXON-.git
+cd Crawler_JAXON
 ```
 
 #### Step 2 — Create and Activate Virtual Environment
